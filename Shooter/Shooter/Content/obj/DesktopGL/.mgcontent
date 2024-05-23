@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Background/tatami.jpg</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Ennemie/Asteroid.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Ennemie/bucket.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Ennemie/pandaBear.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Ennemie/poulpy.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Ennemie/spriteSheetTeddyBear.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Ennemie/teddyBear.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Items/BulletBag.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Items/Pill42.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Player/chicken.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Player/Chicken2.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Player/hand.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Player/player.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Props/Egg.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Props/heartShoot.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Props/heartShoot2.png</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Song/funkytown.mp3</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Sound/Enemy/plushSound01.mp3</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Sound/Item/pack01.mp3</File>
+    <File>C:/Users/alexandrebbch/Documents/02Mardi/ProjetCSharp/Monogame/Shooter/Shooter/Content/Sound/Item/pill01.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
